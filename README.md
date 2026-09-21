@@ -22,3 +22,4 @@ Mi meta:
 
 Acabar la prepa
 
+Prueba de sincronización entre equipos. de juan fernando y ramses 
